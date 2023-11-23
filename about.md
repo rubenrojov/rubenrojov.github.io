@@ -1,10 +1,8 @@
 ---
-title: About
+title: Acerca de...
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hola! Esto es el sitio Jekyll creado por <a rel="me" target="_blank" href="https://github.com/rubenrojov/rubenrojov.github.io">Rubén Rojo</a>.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+Puedes encontrar el código en <a href="https://github.com/rubenrojov/rubenrojov.github.io/">Github</a>
