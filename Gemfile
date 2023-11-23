@@ -2,4 +2,6 @@
 
 source "https://rubygems.org"
 gemspec
-gem "jekyll-theme-leaf"
+gem "kramdown-parser-gfm"
+
+gem "webrick", "~> 1.8"
