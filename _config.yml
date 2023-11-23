@@ -7,7 +7,7 @@ permalink: :slug
 
 social:
   linkedin: linkedin.com/in/rubén-rojo-vázquez-395641225
-  github: github.com/rubenrojov
+  github: rubenrojov
 
 plugins:
  - jekyll-feed
