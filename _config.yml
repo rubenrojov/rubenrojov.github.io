@@ -14,5 +14,6 @@ plugins:
  - jekyll-seo-tag
 
 ### comments & analytics
-hyvor_talk_website_id: 10034
 google_analytics: G-HDGQWPHSD1
+future: true
+
